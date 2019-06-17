@@ -1,0 +1,20 @@
+[
+ {
+  "username": "lukaszmn",
+  "name": "Łukasz Nojek",
+  "userimg": "https://avatars1.githubusercontent.com/u/9399633?v=4",
+  "sort": "created",
+  "order": "desc",
+  "includeFork": true,
+  "theme": "dark.css",
+  "labels": {
+   "work": "My projects",
+   "forks": "My contributions - forks",
+   "blog": "Blog.",
+   "footer": ""
+  },
+  "includeStats": false,
+  "homepageLink": true,
+  "useSpaces": true
+ }
+]
