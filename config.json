@@ -15,6 +15,28 @@
   },
   "includeStats": false,
   "homepageLink": true,
-  "useSpaces": true
+  "useSpaces": true,
+  "links": [
+   {
+    "icon": "fab fa-wordpress",
+    "url": "https://lukasznojek.com",
+    "text": "lukasznojek.com"
+   },
+   {
+    "icon": "fab fa-linkedin",
+    "url": "https://www.linkedin.com/in/lukasznojek",
+    "text": "LinkedIn"
+   },
+   {
+    "icon": "fab fa-github",
+    "url": "https://github.com/lukaszmn",
+    "text": "GitHub"
+   },
+   {
+    "icon": "fab fa-twitter",
+    "url": "https://twitter.com/itlnpl",
+    "text": "@ITLNpl"
+   }
+  ]
  }
 ]

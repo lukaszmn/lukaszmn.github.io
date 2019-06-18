@@ -500,3 +500,7 @@ body{
 .about_section {
     font-weight: normal;
 }
+
+#about > span:nth-child(7) {
+    margin-top: 2rem;
+}
